@@ -8,8 +8,8 @@ I’m a results-driven Full-Stack Developer with hands-on experience building sc
 
 ## 👨‍💻 About Me 👉 https://newportfolio-nine-bice.vercel.app/
 
-- 🎓 **B.E. in Computer Engineering** (2022–2026) — CGPA: **8.43**
-- 💼 Full-Stack Development Intern at **Zymo.app**
+- 🎓 **B.E. in Computer Engineering** (2022–2026) — CGPA: **9.3**
+- 💼 Ex-Full-Stack Development Intern @**Zymo.app**
 - 🧠 Strong interest in **GenAI, LLMs, and AI-powered products**
 - ⚙️ Passionate about clean architecture, performance optimization, and developer experience
 
