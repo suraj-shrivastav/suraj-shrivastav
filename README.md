@@ -1,4 +1,4 @@
-# Hi, I’m Suraj Shrivastav 👋  
+# Hi, I’m Suraj Shrivastav 👋
 
 🚀 **Full-Stack Developer | GenAI Enthusiast | Computer Engineering Student**  
 
@@ -6,7 +6,7 @@ I’m a results-driven Full-Stack Developer with hands-on experience building sc
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me 👉 https://newportfolio-nine-bice.vercel.app/
 
 - 🎓 **B.E. in Computer Engineering** (2022–2026) — CGPA: **8.43**
 - 💼 Full-Stack Development Intern at **Zymo.app**
